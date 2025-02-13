@@ -20,7 +20,7 @@
 
 ### Как запускать?
 ```
-git pull https://github.com/larentiina/shift.git
+git clone https://github.com/larentiina/shift.git
 mvn clean package
 java -jar .\target\shift-jar-with-dependencies.jar <args>
 ```
